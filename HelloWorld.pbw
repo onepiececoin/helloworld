@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "helloworld.pbt";
+@end;
+DefaultTarget "helloworld.pbt";
+DefaultRemoteTarget "helloworld.pbt";
