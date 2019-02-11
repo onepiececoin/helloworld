@@ -5,4 +5,4 @@ Save Format v3.0(19990112)
  0 "helloworld.pbt";
 @end;
 DefaultTarget "helloworld.pbt";
-DefaultRemoteTarget "helloworld.pbt";
+DefaultRemoteTarget "helloworld.pbt"; 
