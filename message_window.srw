@@ -7,7 +7,7 @@ end type
 end forward
 
 global type message_window from window
-integer width = 4554
+integer width = 4454
 integer height = 1980
 boolean titlebar = true
 string title = "Untitled"
